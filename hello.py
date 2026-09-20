@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+city1 = input("What is the name of your city?")
+city2 = input("Which city do you aspire to shift in future?")
+print("Hello,", name)
+print("You are learning python from", city1)
+print(city2, "is a beautiful city")
